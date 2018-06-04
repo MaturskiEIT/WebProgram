@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\A4\A4\bin\A4.dll
+C:\Users\Administrator\Desktop\A4\A4\bin\A4.pdb
+C:\Users\Administrator\Desktop\A4\A4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\A4\A4\obj\Debug\A4.dll
+C:\Users\Administrator\Desktop\A4\A4\obj\Debug\A4.pdb
+Z:\guzda\WEB\A4\A4\bin\A4.dll
+Z:\guzda\WEB\A4\A4\bin\A4.pdb
+Z:\guzda\WEB\A4\A4\obj\Debug\ResolveAssemblyReference.cache
+Z:\guzda\WEB\A4\A4\obj\Debug\A4.dll
+Z:\guzda\WEB\A4\A4\obj\Debug\A4.pdb
+C:\Users\Filip\Desktop\A4\A4\bin\A4.dll
+C:\Users\Filip\Desktop\A4\A4\bin\A4.pdb
+C:\Users\Filip\Desktop\A4\A4\obj\Debug\A4.dll
+C:\Users\Filip\Desktop\A4\A4\obj\Debug\A4.pdb
+C:\Users\Filip\Desktop\A4\A4\obj\Debug\A4.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Zadaci za maturu\A4\A4\bin\A4.dll
+C:\Users\Filip\Desktop\Zadaci za maturu\A4\A4\bin\A4.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\A4\A4\obj\Debug\A4.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Zadaci za maturu\A4\A4\obj\Debug\A4.dll
+C:\Users\Filip\Desktop\Zadaci za maturu\A4\A4\obj\Debug\A4.pdb

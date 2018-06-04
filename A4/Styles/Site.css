@@ -1,0 +1,89 @@
+﻿.naslov
+{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: #FF0000;
+}
+.desno
+{
+	text-align: right;
+}
+body
+{
+	background-image: url('../slike/maps.jpg');
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+}
+.zaALB
+{
+	width: 100px;
+	height: 50px;
+	position: absolute;
+	top: 500px;
+	left: 500px;
+}
+.zaBIH
+{
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	top: 300px;
+	left: 300px;
+}
+.zaBUG
+{
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	top: 400px;
+	left: 850px;
+}
+.zaHRV
+{
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	top: 50px;
+	left: 200px;
+}
+.zaMAD
+{
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	top: 0px;
+	left: 350px;
+}
+.zaMAK
+{
+	width: 100px;
+	height: 50px;
+	position: absolute;
+	top: 550px;
+	left: 650px;
+}
+.zaMNE
+{
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	top: 400px;
+	left: 400px;
+}
+.zaRUM
+{
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	top: 100px;
+	left: 700px;
+}
+.zaSRB
+{
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	top: 350px;
+	left: 600px;
+}
